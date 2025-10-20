@@ -1,4 +1,2 @@
-pub const RSGL_gl = @import("rsgl_gl");
-
-pub const RSGL_gl1 = @import("rsgl_gl1");
-
+pub const gl = @import("gl");
+pub const gl1 = @import("gl1");
